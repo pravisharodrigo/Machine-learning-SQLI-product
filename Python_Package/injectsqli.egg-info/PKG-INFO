@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: injectsqli
+Version: 0.1
+Summary: This will detect SQL injection attacks. and notify the user.
+Author: Pravish
+Author-email: pravisharodrigo7@gmail.com

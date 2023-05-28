@@ -1,0 +1,1 @@
+from .injectsqli import predict

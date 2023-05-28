@@ -1,0 +1,9 @@
+README.md
+setup.py
+injectsqli/__init__.py
+injectsqli/injectsqli.py
+injectsqli.egg-info/PKG-INFO
+injectsqli.egg-info/SOURCES.txt
+injectsqli.egg-info/dependency_links.txt
+injectsqli.egg-info/requires.txt
+injectsqli.egg-info/top_level.txt
